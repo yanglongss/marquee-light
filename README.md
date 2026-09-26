@@ -1,2 +1,8 @@
-# marquee-light
-Android跑马灯效果应用 - 支持通知触发、自定义颜色和流速、后台运行、省电模式
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toggleButton" type="id" />
+    <item name="settingsButton" type="id" />
+    <item name="enableNotificationAccessButton" type="id" />
+    <item name="statusText" type="id" />
+    <item name="titleText" type="id" />
+</resources>
