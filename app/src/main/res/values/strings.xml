@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MarqueeLight</string>
+    <string name="settings">Settings</string>
+    <string name="notification_listener_label">Marquee Light Notification Listener</string>
+    
+    <!-- Main Activity -->
+    <string name="turn_on">Turn On</string>
+    <string name="turn_off">Turn Off</string>
+    <string name="settings_btn">Settings</string>
+    <string name="status">Status</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    
+    <!-- Settings -->
+    <string name="color_settings">Color Settings</string>
+    <string name="speed_settings">Speed Settings</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="power_saving_mode">Power Saving Mode</string>
+    <string name="default_color">Default Color</string>
+    <string name="default_speed">Default Speed</string>
+    <string name="sms_color">SMS Color</string>
+    <string name="call_color">Call Color</string>
+    <string name="app_notification_color">App Notification Color</string>
+</resources>
